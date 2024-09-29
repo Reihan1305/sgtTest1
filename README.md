@@ -1,4 +1,4 @@
-```markdown
+
 # Next.js Project
 
 ## 📋 Getting Started
