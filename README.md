@@ -1,3 +1,4 @@
+```markdown
 # Next.js Project
 
 ## 📋 Getting Started
@@ -13,19 +14,26 @@ Pastikan Anda memiliki versi berikut di lingkungan lokal Anda:
 
 1. **Clone repositori ini ke mesin lokal Anda**:
    ```bash
-   git clone <repository-url>
-Masuk ke direktori proyek:
-bash
-cd <project-directory>
-Instal dependensi menggunakan npm :
+   git clone https://github.com/Reihan1305/sgttest1.git
+   ```
 
-bash
-npm install
+2. **Masuk ke direktori proyek**:
+   ```bash
+   cd sgttest1
+   ```
 
-🚀 Menjalankan Proyek
+3. **Instal dependensi menggunakan npm**:
+   ```bash
+   npm install
+   ```
+
+### 🚀 Menjalankan Proyek
+
 Setelah semua dependensi terinstal, Anda dapat menjalankan proyek dengan perintah berikut:
 
-bash
+```bash
 npm run dev
+```
 
-Buka http://localhost:3000 di browser Anda untuk melihat hasilnya.
+Buka [http://localhost:3000](http://localhost:3000) di browser Anda untuk melihat hasilnya.
+```
